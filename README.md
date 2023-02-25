@@ -11,7 +11,9 @@ Table of Contents
 
 Visit [Deployed Application](https://mmoghal.github.io/understood_party/) for Horiseon
 
-Review [Image of the application]![alt Image of the application](https://github.com/mmoghal/understood_party/blob/main/assets/images/digital-marketing-meeting.jpg)
+Application Image
+
+![alt Image of the application](https://github.com/mmoghal/understood_party/blob/main/assets/images/digital-marketing-meeting.jpg)
 
 
 Usage
