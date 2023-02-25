@@ -7,6 +7,14 @@ A marketing agency has tasked us with refactoring an existing website to make it
 Installation
 N/A
 
+Table of Contents
+
+Visit [Deployed Application](https://mmoghal.github.io/understood_party/) for Horiseon
+
+
+![alt Image of the application](https://github.com/mmoghal/understood_party/blob/main/assets/images/digital-marketing-meeting.jpg)
+
+
 Usage
 
 To access various parts of the webpage, utilize the navigation panel located at the top right corner. To discover other content on the page, simply scroll either upwards or downwards.
