@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# 01 HTML, CSS, and Git: Code Refactor
 
 ## Description
 
@@ -9,9 +9,9 @@ N/A
 
 ## Table of Contents
 
-Visit [Deployed Application](https://mmoghal.github.io/understood_party/) for Horiseon
+1. Visit [Deployed Application](https://mmoghal.github.io/understood_party/) for Horiseon
 
-## Application Image
+2. Application Image
 
 ![alt Image of the application](https://github.com/mmoghal/understood_party/blob/main/assets/images/digital-marketing-meeting.jpg)
 
