@@ -92,6 +92,28 @@ p {
 }
 
 /*
+Article Styles
+*/
+
+article {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+article img {
+    max-height: 200px;
+}
+
+.article h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/*
 Benefits Styles
 */
 
@@ -121,28 +143,6 @@ aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-/*
-Article Styles
-*/
-
-article {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-article img {
-    max-height: 200px;
-}
-
-.article h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /*
