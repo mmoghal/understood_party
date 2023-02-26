@@ -1,21 +1,21 @@
 # Code Refactor Starter Code
 
-Description
+## Description
 
 A marketing agency has tasked us with refactoring an existing website to make it more accessible. The existing code has been refactored to meet a certain set of accessibility standards. The Horiseon website is organized into three main sections, including a banner and a right sidebar with a navigational header. Semantic elements have been used to clearly describe their meaning to both the browser and developer. Alternative text attributes have been added to provide information about images in case a user cannot view them. The code refactoring process has been completed without altering the external behavior of the website.
 
-Installation
+## Installation
 N/A
 
-Table of Contents
+## Table of Contents
 
 Visit [Deployed Application](https://mmoghal.github.io/understood_party/) for Horiseon
 
-Application Image
+## Application Image
 
 ![alt Image of the application](https://github.com/mmoghal/understood_party/blob/main/assets/images/digital-marketing-meeting.jpg)
 
-Code Comments and Refactoring
+## Code Comments and Refactoring
 
 •	Grouped all selectors with the same CSS rules using a comma separator in a single rule
 
@@ -32,13 +32,13 @@ Code Comments and Refactoring
 •	This approach made the HTML more semantic, reducing code duplication and keeping the codebase clean and concise. It also makes it easier to target each article with CSS or JavaScript.
 
 
-Usage
+## Usage
 
 To access various parts of the webpage, utilize the navigation panel located at the top right corner. To discover other content on the page, simply scroll either upwards or downwards.
 
-Credits
+## Credits
 Code refactoring completed by Muhammad Moghal
 
-License
+## License
 
 Please refer to the LICENSE in the repo.
